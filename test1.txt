@@ -1,2 +1,3 @@
 cap nhap 1
 hihihi
+cap nhat 2
